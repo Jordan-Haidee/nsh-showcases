@@ -1,6 +1,6 @@
 # Zeedle
 
-Zeedle is a lightweight music player ported to Native Shell. It keeps the focused workflow of the original Zeedle while using an NSH desktop interface backed by Rust and Rodio. Native portable builds target Windows, Linux and macOS on x64 and ARM64 runners.
+Zeedle is a lightweight music player ported to Native Shell. It keeps the focused workflow of the original Zeedle while using an NSH desktop interface backed by Rust and Rodio. Portable builds target Windows x64, Linux x64 and Apple Silicon macOS.
 
 ## Highlights
 
